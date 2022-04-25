@@ -1,5 +1,5 @@
 # PBI Color Palettes
-I created Power BI theme files to contain the colors of the viridis color palettes. In addition to being visually appealing, viridis color palettes are CVD (colorblind) friendly and perceptually uniform. These themes can be useful for sequential, diverging, or categorical color palettes by strategically choosing which colors (and shades) to include. 
+I created Power BI theme files to contain the colors of the viridis color palettes. In addition to being visually appealing, viridis color palettes are CVD (colorblind) friendly and perceptually uniform. These themes can be useful for sequential, diverging, or categorical color palettes by strategically choosing which colors (and shades) to include. For a quick explanation of these color palettes, see this [post about the colors in R on CRAN](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html). For a much deeper explanation, read [this research article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199239). 
 
 # Color Choices
 I generated these palettes using the handy tool I found at https://waldyrious.net/viridis-palette-generator/. 
